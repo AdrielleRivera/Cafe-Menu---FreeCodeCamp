@@ -16,8 +16,8 @@ h1, h2, p {
   max-width: 500px;
 }
 
-h1,h2{
-  font-family:Impact;
+h1, h2 {
+  font-family: Impact,serif;
 }
 
 .item p {
